@@ -1,0 +1,21 @@
+.portfolio {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .projects {
+    margin-top: 30px;
+  }
+  
+  .projects .project {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+  }
+  
+  .projects .project img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  

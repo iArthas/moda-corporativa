@@ -1,0 +1,15 @@
+.services {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .service-list {
+    margin-top: 30px;
+  }
+  
+  .service-list .service {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+  }
+  

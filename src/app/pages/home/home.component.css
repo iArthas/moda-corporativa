@@ -1,0 +1,21 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .latest-trends {
+    margin-top: 30px;
+  }
+  
+  .latest-trends .trend {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+  }
+  
+  .latest-trends .trend img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
